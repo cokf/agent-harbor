@@ -84,3 +84,10 @@ pnpm docs:build
 - 读取 `GET /user/repos` 成功，但返回空数组
 - 创建仓库 `POST /user/repos` 返回：`403 Resource not accessible by personal access token`
 - 结论：当前 PAT **可鉴权，但没有创建仓库权限**
+
+
+## GitHub Status
+
+- 已创建远程仓库：`https://github.com/cokf/agent-harbor`
+- 默认分支：`main`
+- 已完成首次推送：`feat: initialize Agent Harbor site`
