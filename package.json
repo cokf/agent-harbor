@@ -1,0 +1,14 @@
+{
+  "name": "agent-harbor",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Agent Harbor - blog + notes hybrid site powered by VitePress.",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}
