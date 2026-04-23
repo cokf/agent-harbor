@@ -23,7 +23,7 @@ Agent Harbor 第一版骨架已搭好、本地构建通过，并已推送到 Git
 
 - GitHub: `https://github.com/cokf/agent-harbor`
 - Branch: `main`
-- Latest commit: `feat: initialize Agent Harbor site`
+- Latest commit: `docs: record repository setup`
 
 ## Next Action
 
